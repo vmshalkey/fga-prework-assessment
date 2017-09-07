@@ -5,7 +5,7 @@ Your assignment is to take the design in the mockups folder and code it into sta
 
 1. Fork and clone this repo
 2. Code the design in the mockups folder into a static site
-3. When complete, create an issue on Github and tag @devarispbrown, @arifgursel, @vanessa, @monday in the message
+3. When complete, create an issue on Github and tag @devarispbrown, @arifgursel, @vmshalkey, @mondaya in the message
 
 ## Grading Criteria
 You will be judged on the following:
